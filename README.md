@@ -1,4 +1,4 @@
-# DAO Hibernate JPA
+# DAO Hibernate Security
 
 Учебный проект по работе с базой данных через **Spring JDBC** и **NamedParameterJdbcTemplate**.
 Демонстрирует полный путь от HTTP-запроса до SQL-запроса в PostgreSQL, а также базовую
